@@ -12,9 +12,7 @@ dist-sourcemaps/
 .tanstack/
 .DS_Store
 .cache
-.env
 .env.
-.env.*
 !.env.example
 !.env.preview.example
 !.env.production.example
@@ -44,3 +42,4 @@ dist-sourcemaps/
 
 # Alchemy local state + bundle artifacts (SaaS deploys)
 .alchemy/
+config.bat
